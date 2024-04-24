@@ -1,0 +1,6 @@
+phrase = "O preço do produto é R$100,00"
+float_value = phrase.split("R$")
+float_value
+
+phrase[phrase.index("S") + 1]
+phrase[:7]
